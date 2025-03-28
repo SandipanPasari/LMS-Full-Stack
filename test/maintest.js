@@ -9,4 +9,4 @@ createRoot(document.getElementById('root')).render(
   </StrictMode>,
 )
 
-// testing by sandipan - react-dom-client purpose
+// testing by sandipan - testing for react-dom-client purpose
