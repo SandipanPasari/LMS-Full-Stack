@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "humanize-duration": "^3.32.1",
+    "quill": "^2.0.3",
+    "rc-progress": "^4.0.0",
+    "react-router-dom": "^7.4.1",
+    "react-simple-star-rating": "^5.1.7",
+    "react-youtube": "^10.1.0",
+    "unique": "^0.0.1"
+  }
+}
